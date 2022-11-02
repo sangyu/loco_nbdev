@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "loco_nbdev"
+  site-url: "https://sangyu.github.io/loco_nbdev"
+  description: "locomotion code nbdeved"
+  repo-branch: main
+  repo-url: "https://github.com/sangyu/loco_nbdev"
