@@ -5,4 +5,8 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sangyu.github.io',
                 'git_url': 'https://github.com/sangyu/loco_nbdev',
                 'lib_path': 'loco_nbdev'},
-  'syms': {'loco_nbdev.core': {'loco_nbdev.core.foo': ('core.html#foo', 'loco_nbdev/core.py')}}}
+  'syms': { 'loco_nbdev.core': { 'loco_nbdev.core.correlationPlot': ('plottools.html#correlationplot', 'loco_nbdev/core.py'),
+                                 'loco_nbdev.core.plotContrasts': ('plottools.html#plotcontrasts', 'loco_nbdev/core.py'),
+                                 'loco_nbdev.core.saveDabestData': ('plottools.html#savedabestdata', 'loco_nbdev/core.py'),
+                                 'loco_nbdev.core.savePlots': ('plottools.html#saveplots', 'loco_nbdev/core.py'),
+                                 'loco_nbdev.core.setFont': ('plottools.html#setfont', 'loco_nbdev/core.py')}}}
